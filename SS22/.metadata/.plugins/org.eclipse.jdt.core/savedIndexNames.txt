@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+C:\Users\anna-\eclipse-workspace\SS22\.metadata\.plugins\org.eclipse.jdt.core
+829762745.index
+1865797976.index
+657510320.index

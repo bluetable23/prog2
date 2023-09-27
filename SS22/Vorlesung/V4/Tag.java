@@ -1,0 +1,5 @@
+package V4;
+
+public enum Tag {
+MONTAG,DIENSTAG, MITTWOCH, DONNERSTAG, FREITAG, SAMSTAG, SONNTAG;
+}
